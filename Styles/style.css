@@ -17,6 +17,10 @@
   font-variation-settings:
     "width" 100;
 }
+.grad
+{
+  background-image: linear-gradient(rgba(0, 0, 0, 0.178),rgba(0, 0, 0, 0.178),rgba(0, 0, 0, 0.178));
+}
 @media screen and (max-width: 576px){
        
     .hide
